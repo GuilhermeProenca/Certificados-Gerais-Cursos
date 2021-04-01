@@ -1,6 +1,3 @@
-## MF Treinamentos - Lean Six Sigma White Belt
-Fundamentos do DMAIC com um projeto simulado e dois estudos de caso de projetos reais.
-
 ## Cisco Networking Academy - Introdução à Cibersegurança
 - As implicações globais das ameaças cibernéticas </br>
 - De que maneiras as redes estão vulneráveis a ataques </br>
@@ -9,3 +6,9 @@ Fundamentos do DMAIC com um projeto simulado e dois estudos de caso de projetos 
 ameaças </br>
 - Por que a segurança cibernética é uma profissão em crescimento </br>
 - Oportunidades disponíveis para certificações em segurança de rede
+
+## MF Treinamentos - Lean Six Sigma White Belt
+Fundamentos do DMAIC com um projeto simulado e dois estudos de caso de projetos reais.
+
+## Academia de Belts - Lean Six Sigma Yellow Belt
+Introdução à platorforma estatística Minitab com exemplos práticos de acordo as etapas do DMAIC.
