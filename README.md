@@ -7,6 +7,9 @@ ameaças </br>
 - Por que a segurança cibernética é uma profissão em crescimento </br>
 - Oportunidades disponíveis para certificações em segurança de rede
 
+## Kenzie Academy - Introdução à Programação com Python
+Fundamentos básicos da linguagem de programação Python e criação de jogo (Snake Game).
+
 ## MF Treinamentos - Lean Six Sigma White Belt
 Fundamentos do DMAIC com um projeto simulado e dois estudos de caso de projetos reais.
 
