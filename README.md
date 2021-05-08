@@ -16,6 +16,9 @@ Fundamentos do DMAIC com um projeto simulado e dois estudos de caso de projetos 
 ## Academia de Belts - Lean Six Sigma Yellow Belt
 Introdução à platorforma estatística Minitab com exemplos práticos de acordo as etapas do DMAIC.
 
+## Power BI Experience - Power BI Week
+Introdução a ferramenta Microsoft Power BI, storytelling, design e construção de dashboard de vendas e simulador financeiro com análise de cenários.
+
 ##  FIAP Centro Universitário - User Experience
 - Usabilidade e Arquitetura da Informação 	   	   
 - Para quem você está criando sua UX?    	   	   
