@@ -1,3 +1,6 @@
+## VAI Academy & Americanas S.A - Imersão em Ciência de Dados
+Curso de lógica de programação, manipulação de dados e estatística com a linguagem de programação Python.
+
 ## Cisco Networking Academy - Introdução à Cibersegurança
 - As implicações globais das ameaças cibernéticas </br>
 - De que maneiras as redes estão vulneráveis a ataques </br>
