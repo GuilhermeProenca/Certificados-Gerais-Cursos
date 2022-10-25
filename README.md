@@ -1,7 +1,7 @@
-## VAI Academy & Americanas S.A - Capacitação em Ciência de Dados
+## VAI Academy & Americanas S.A. - Capacitação em Ciência de Dados
 Capacitação em Machine Learning com modelos de Classificação, Regressão, Clusterização e Série Temporal com a linguagem de programação Python, além de projeto final com case em grupo.
 
-## VAI Academy & Americanas S.A - Imersão em Ciência de Dados
+## VAI Academy & Americanas S.A. - Imersão em Ciência de Dados
 Curso de lógica de programação, manipulação de dados e estatística com a linguagem de programação Python.
 
 ## Cisco Networking Academy - Introdução à Cibersegurança
